@@ -19,14 +19,16 @@ this a very beatiful calculator.
 or click this picture
 
 #### Fisrt image
-![](img/img1.jpg)
+[![Alt text](img/img1.jpg)](https://mrhadsheanas.github.io/Calculator/)
+
 
 ## Second image
+[![Alt text](img/img2.jpg)](https://mrhadsheanas.github.io/Calculator/)
 
-![](img/img2.jpg)
+
 ## Tired image
+[![Alt text](img/img3.jpeg)](https://mrhadsheanas.github.io/Calculator/)
 
-![](img/img3.jpeg)
 
 
 
